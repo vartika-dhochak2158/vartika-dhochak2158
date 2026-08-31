@@ -4,7 +4,7 @@
 
 <br/>
 
-### Building products, learning systems, shipping ideas.
+### Building products, Learning systems, Shipping ideas.
 
 <br/>
 
@@ -42,7 +42,7 @@ Currently exploring **backend architecture, cloud systems, practical AI and DSA.
 
 ---
 
-## ⚡ stack
+## ⚡ Stack
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Currently exploring **backend architecture, cloud systems, practical AI and DSA.
 
 ---
 
-## 📈 github
+## 📈 Github
 
 <div align="center">
 
@@ -90,7 +90,7 @@ Currently exploring **backend architecture, cloud systems, practical AI and DSA.
 
 ---
 
-## 🟩 contribution heatmap
+## 🟩 Contribution Heatmap
 
 <div align="center">
 
@@ -100,7 +100,7 @@ Currently exploring **backend architecture, cloud systems, practical AI and DSA.
 
 ---
 
-## 📊 activity
+## 📊 Activity
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Currently exploring **backend architecture, cloud systems, practical AI and DSA.
 
 <div align="center">
 
-### currently building · learning · shipping
+### Currently Building · Learning · Shipping
 
 <br/>
 
