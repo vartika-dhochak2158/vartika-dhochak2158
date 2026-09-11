@@ -34,7 +34,7 @@
 
 ## About
 
-<div align="center"> I'm a Computer Science student who enjoys turning ideas into **working software**.
+<div align="center"> I'm a Computer Science student who enjoys turning ideas into working software.
 
 I build across the stack — from clean interfaces and APIs to databases, authentication, deployment and cloud infrastructure.
 Currently exploring **backend architecture, cloud systems, practical AI and DSA.**
