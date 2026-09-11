@@ -3,9 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FBCFE8,50:F472B6,100:DB2777&text=VARTIKA%20DHOCHAK&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
-
 ### Building products, Learning systems, Shipping ideas.
-
 <br/>
 
 <a href="https://github.com/vartika-dhochak2158">
@@ -24,12 +22,10 @@
 <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<br/><br/>
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=vartika-dhochak2158&label=profile%20views&color=64748B&style=flat-square"/>
 
 </div>
-
 ---
 
 ## About
