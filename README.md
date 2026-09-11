@@ -28,7 +28,6 @@
 
 </div>
 
----
 
 ## About
 
@@ -36,8 +35,6 @@
 
 I build across the stack — from clean interfaces and APIs to databases, authentication, deployment and cloud infrastructure.
 Currently exploring **backend architecture, cloud systems, practical AI and DSA.**
-
----
 
 ## 🛠️ Tech Stack
 
@@ -75,9 +72,6 @@ Currently exploring **backend architecture, cloud systems, practical AI and DSA.
 <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF"/>
 
 </div>
-
----
----
 
 ## 📈 Github
 
