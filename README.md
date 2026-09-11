@@ -42,7 +42,6 @@ Currently exploring **backend architecture, cloud systems, practical AI and DSA.
 ## 🛠️ Tech Stack
 
 
-
 ### Languages & Core
 <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
