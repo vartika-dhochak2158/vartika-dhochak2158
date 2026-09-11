@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,50:111827,100:172554&text=Vartika%20Dhochak&fontColor=E5E7EB&fontSize=46&fontAlignY=38&desc=software%20engineer%20%7C%20full-stack%20developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FBCFE8,50:F472B6,100:DB2777&text=Vartika%20Dhochak&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=software%20engineer%20%7C%20full-stack%20developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -42,25 +42,37 @@ Currently exploring **backend architecture, cloud systems, practical AI and DSA.
 
 ---
 
-## ⚡ Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### languages
-
-<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
+### Languages & Core
 <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00"/>
 <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+
+<br/>
+
+### Frontend Development
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
 <img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
+
+<br/>
+
+### Backend & Databases
 <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1"/>
+
+<br/>
+
+### Cloud & Developer Tools
 <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
@@ -68,6 +80,7 @@ Currently exploring **backend architecture, cloud systems, practical AI and DSA.
 
 </div>
 
+---
 ---
 
 ## 📈 Github
