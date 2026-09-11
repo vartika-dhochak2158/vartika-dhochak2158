@@ -23,8 +23,7 @@
 <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<br/><br/>
-
+<br/>
 <img src="https://komarev.com/ghpvc/?username=vartika-dhochak2158&label=Profile%20Views&color=38BDF8&style=flat-square"/>
 
 </div>
