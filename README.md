@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FBCFE8,50:F472B6,100:DB2777&text=Vartika%20Dhochak&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=software%20engineer%20%7C%20full-stack%20developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FBCFE8,50:F472B6,100:DB2777&text=VARTIKA%20DHOCHAK&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPERr&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -37,7 +37,6 @@
 I'm a Computer Science student who enjoys turning ideas into **working software**.
 
 I build across the stack — from clean interfaces and APIs to databases, authentication, deployment and cloud infrastructure.
-
 Currently exploring **backend architecture, cloud systems, practical AI and DSA.**
 
 ---
